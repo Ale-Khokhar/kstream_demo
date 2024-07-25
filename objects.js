@@ -20,6 +20,8 @@ console.log(object);
 
 // this show the array value at specific index
 console.log(object.array[0]);
+// this also show array values this is another method that show array value instead of object.array
+console.log(object["array"]);
 
 // this show we get value of object a specific value
 console.log(object.course);
